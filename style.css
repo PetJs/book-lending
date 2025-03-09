@@ -1,0 +1,75 @@
+/* Global Styles */
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f5f5f5;
+}
+
+/* Header styling */
+header {
+    background-color: #4CAF50;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+/* Main container */
+main {
+    padding: 20px;
+}
+
+/* Book cards container */
+#book-card {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+}
+
+/* Individual book card */
+#book-card div {
+    background-color: white;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    width: 220px;
+    padding: 15px;
+    text-align: center;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+.book-image {
+    width: 100%;
+    height: auto;
+    border-radius: 5px;
+}
+
+/* Button styles */
+button {
+    padding: 8px 12px;
+    margin: 5px;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+/* Borrow button style */
+.borrow-btn {
+    background-color: #4CAF50;
+    color: white;
+}
+
+/* Disabled (borrowed) style */
+.used {
+    background-color: #aaa;
+}
+
+/* Return button style */
+.return-btn {
+    background-color: #f44336;
+    color: white;
+}
+
+/* Hidden elements */
+.hidden {
+    display: none;
+}
