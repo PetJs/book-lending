@@ -41,9 +41,7 @@ This is a simple **Library Book Lending System** built using **HTML, CSS, and Ja
 4. The **Return** button makes the book available again when clicked.
 
 
-## Contribution
-Feel free to contribute by submitting a pull request or reporting issues!
+## Deployment
+Here is the deployed [Link]("https://book-lending-eta.vercel.app/")
 
-## License
-This project is licensed under the **MIT License**.
 
