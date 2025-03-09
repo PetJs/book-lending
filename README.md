@@ -42,6 +42,6 @@ This is a simple **Library Book Lending System** built using **HTML, CSS, and Ja
 
 
 ## Deployment
-Here is the deployed [Link]("https://book-lending-eta.vercel.app/")
+Here is the deployed [Link](https://book-lending-eta.vercel.app/)
 
 
